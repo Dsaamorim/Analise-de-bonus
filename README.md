@@ -4,3 +4,4 @@ Realizei uma aplicação que avalia 6 planilhas em Excel, e avisa quem foi o ven
 Importei as biblioteca: pandas e openpyxl para ler a planilha, e o twilio para enviar sms me informando os dados que preciso. 
 
 ![Comprovante do SMS.jpeg](https://github.com/Dsaamorim/Analise-de-bonus/blob/main/Comprovante%20do%20SMS.jpeg)
+![https://github.com/Dsaamorim/Analise-de-bonus/blob/main/AnaliseDeBonus.gif](https://github.com/Dsaamorim/Analise-de-bonus/blob/main/AnaliseDeBonus.gif)
